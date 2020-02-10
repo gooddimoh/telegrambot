@@ -1,6 +1,9 @@
 <?php
 
-use App\Http\Controllers\TelegramBotController;/*
+use App\Http\Controllers;
+use App\Http\Controllers\TelegramBotController;
+
+/*
 |--------------------------------------------------------------------------
 | Web Routes
 |--------------------------------------------------------------------------
